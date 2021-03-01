@@ -4,17 +4,19 @@
 [![Instagram](https://img.shields.io/badge/Follow-@themahdiar-red?style=for-the-badge&logo=Instagram)](https://www.instagram.com/themahdiar)
 [![Telegram](https://img.shields.io/badge/Telegram-@blindfooldead-blue?style=for-the-badge&logo=Telegram)](http://t.me/blindfooldead)
 
+<!--
 <p align="center">
   <br>
   <samp>
     Hello! I'm Mahdiar.
     <br>I'm a Site Reliability Engineer/DevOps from Iran 🚀.<br>
-
 </samp>
-
   <img src="https://user-images.githubusercontent.com/29659769/109437021-fc52b200-7a37-11eb-8477-3a9ba512b07f.gif" width="200"/>
-
 </p>
+-->
+Hello there! I'm Mahdiar. I'm a Site Reliability Engineer/DevOps from Iran hope to make the world a better place <img src="https://media.giphy.com/media/hS3IR40sIwRl6zUyrQ/giphy.gif" width="40"> stay awesome.
+
+![pog2](https://user-images.githubusercontent.com/29659769/109441014-4a23e600-7a49-11eb-88e5-e39701e65818.gif)
 
 
 ## 🛠 Skills
